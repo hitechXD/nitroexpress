@@ -343,6 +343,7 @@ def index():
                 <img src="/static/trusted.png" alt="Trusted"> Trusted & Premium
             </div>
         </div>
+        <p> Made By HitechXD6907
     </body>
     </html>
     """)
@@ -393,3 +394,4 @@ def offers():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
