@@ -328,7 +328,7 @@ def index():
         </div>
         <div class="tagline">Fast • Affordable • Reliable</div>
         <div class="button-row">
-            <a class="btn discord-btn" href="https://discord.gg/Yyst4YhtSa" target="_blank">Our Discord</a>
+            <a class="btn discord-btn" href="https://discord.gg/Yyst4YhtSa" target="_blank">Discord</a>
             <a class="btn buy-btn" href="https://nitroexpressshop.mysellauth.com/" target="_blank">Auto Buy</a>
             <a class="btn" style="border-color:#ff99ec;box-shadow:0 0 12px #ffb6fc50;" href="/offers">Products</a>
         </div>
@@ -394,4 +394,5 @@ def offers():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
 
